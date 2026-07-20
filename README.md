@@ -3,7 +3,7 @@ Resume Website
 
 Welcome to my personal resume website. This project has been developed using HTML and is designed to present my profile in a clean, structured, and user-friendly manner.
 
-📌 Features
+ Features
 
 Personal Introduction
 
@@ -18,12 +18,12 @@ Hobbies and Interests
 Contact Information
 
 
-💻 Technologies Used
+ Technologies Used
 
 HTML5
 
 
-👤 Author
+ Author
 
 Vivek Matiyali 
 BCA Student | Aspiring Web Developer
